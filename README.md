@@ -1,13 +1,14 @@
-<img align="right" src="/images/logo.png" width="" height="150em" />
+<img align="right" src="/logo.png" width="" height="150em" />
 
 # helheim-bot
-A simple Whatsapp bot by AbrahamAraon.
+A simple Whatsapp bot by [AbrahamAraon](https://github.com/abrahamaraon).
 <br />
 <br />
-<h4>BETA</h4>
+<h3>BETA VERSION</h3>
 Bot running fast and furious, nevertheless, need modifications, bug fixes and module implementations for more functionalities. So much to work yet.
-
-if you want to colaborate please PM me with:
+<br />
+<br />
+If you want to colaborate please PM me with:
 
 * Notify bug
 * Ideas to implement
