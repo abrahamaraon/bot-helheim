@@ -15,6 +15,9 @@ If you want to colaborate please PM me with:
 * Traductions
 * Thanks!
 
+[![Facebook](https://img.shields.io/badge/social-Facebook-blue)](https://www.facebook.com/groups/helheim.bot)
+[![Whatsapp](https://img.shields.io/badge/social-Whatsapp-green)](https://chat.whatsapp.com/FYYJu2HYxLYLPxFWz01LVA)
+
 # Examples
 
  - `.alive`
@@ -25,9 +28,6 @@ If you want to colaborate please PM me with:
  - `.wellcome Bienvenido!`
  - `.welcome ON`
  - `.invite`
-
-[![License](https://img.shields.io/badge/license-Mozilla%20Public%20(MPL)-orange)](https://www.mozilla.org/en-US/MPL/2.0/)
-[![Whatsapp](https://img.shields.io/badge/social-Whatsapp-green)](http://wa.me/56986204605)
 
 ## License
 
