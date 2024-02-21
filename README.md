@@ -35,4 +35,5 @@ This bot is licensed under the [MPL license](https://www.mozilla.org/en-US/MPL/2
 
 This is not an official Whatsapp product. It is not affiliated with nor endorsed by Whatsapp LLC.
 
-© 2021 Abraham Herrera
+## Edit
+The bot has been hide - please make a request
